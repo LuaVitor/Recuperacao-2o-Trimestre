@@ -1,0 +1,18 @@
+[
+    {
+        "Aluno": "Lu04",
+        "Nome": "Matem\u00e1tica",
+        "Faltas": "1212",
+        "Nota_Trim_1": "1221",
+        "Nota_Trim_2": "1221",
+        "Nota_Trim_3": "1221"
+    },
+    {
+        "Aluno": "Lu",
+        "Nome": "Portugu\u00eas",
+        "Faltas": "123",
+        "Nota_Trim_1": "123",
+        "Nota_Trim_2": "1223",
+        "Nota_Trim_3": "122"
+    }
+]
