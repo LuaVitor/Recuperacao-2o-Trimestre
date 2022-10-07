@@ -14,5 +14,53 @@
         "Nota_Trim_1": "123",
         "Nota_Trim_2": "1223",
         "Nota_Trim_3": "122"
+    },
+    {
+        "Aluno": "lucas123",
+        "Nome": "Portugu\u00eas",
+        "Faltas": "2",
+        "Nota_Trim_1": "25",
+        "Nota_Trim_2": "33",
+        "Nota_Trim_3": "32"
+    },
+    {
+        "Aluno": "lucas123",
+        "Nome": "Matem\u00e1tica",
+        "Faltas": "6",
+        "Nota_Trim_1": "24",
+        "Nota_Trim_2": "29",
+        "Nota_Trim_3": "27"
+    },
+    {
+        "Aluno": "teste",
+        "Nome": "sla",
+        "Faltas": "12",
+        "Nota_Trim_1": "12",
+        "Nota_Trim_2": "12",
+        "Nota_Trim_3": "12"
+    },
+    {
+        "Aluno": "simm",
+        "Nome": "aa",
+        "Faltas": "123",
+        "Nota_Trim_1": "123",
+        "Nota_Trim_2": "123",
+        "Nota_Trim_3": "123"
+    },
+    {
+        "Aluno": "simm",
+        "Nome": "cccc",
+        "Faltas": "123",
+        "Nota_Trim_1": "123",
+        "Nota_Trim_2": "123",
+        "Nota_Trim_3": "123"
+    },
+    {
+        "Aluno": "simm",
+        "Nome": "eee",
+        "Faltas": "15",
+        "Nota_Trim_1": "25",
+        "Nota_Trim_2": "25",
+        "Nota_Trim_3": "25"
     }
 ]

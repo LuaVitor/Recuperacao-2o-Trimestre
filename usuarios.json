@@ -10,5 +10,23 @@
         "Usuario": "Lu",
         "Email": "luanvitornf@gmail.com",
         "Senha": "4321"
+    },
+    {
+        "Nome": "Lucas",
+        "Usuario": "lucas123",
+        "Email": "lucas123@email.com",
+        "Senha": "123"
+    },
+    {
+        "Nome": "Testando",
+        "Usuario": "teste",
+        "Email": "teste@teste.teste",
+        "Senha": "teste123"
+    },
+    {
+        "Nome": "sim",
+        "Usuario": "simm",
+        "Email": "sim22@aaaaa.bb",
+        "Senha": "n\u00e3o"
     }
 ]
