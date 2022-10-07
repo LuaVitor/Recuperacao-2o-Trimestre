@@ -16,10 +16,10 @@
             }
         ?>
         <form action='index.php' method='post'>
-            <p>Usuario: </p>
+            <p>Usuario:</p>
             <input type=text name='usuario'>
             <br>
-            <p>Senha: </p>
+            <p>Senha:</p>
             <input type=password name='senha'>
             <br>
             <br><input type=submit name='login' value='Login'>

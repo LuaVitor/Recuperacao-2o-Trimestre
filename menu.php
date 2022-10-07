@@ -29,11 +29,18 @@
                 <th>Trim.3</th>
             </tr>
             <?php
-                listarMaterias($_SESSION['usuario']);
+                if(isset($_POST['pesquisar']))
+                {
+                    listarMateria($_SESSION['usuario'], $_POST['pesquisar']);
+                }
+                else
+                {
+                    listarMateria($_SESSION['usuario'], "");
+                }
             ?>
         </table>
         <br>
-        <form action='pesquisa.php' method='post'>
+        <form action='menu.php' method='post'>
             <input type='text' name='pesquisar' placeholder='Pesquisar'>
             <input type='submit' value='Enviar'>
         </form>

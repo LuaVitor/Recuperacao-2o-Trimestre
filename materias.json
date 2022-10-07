@@ -1,66 +1,34 @@
 [
     {
-        "Aluno": "Lu04",
+        "Aluno": "Lu",
+        "Nome": "Ci\u00eancias",
+        "Faltas": "4",
+        "Nota_Trim_1": "26",
+        "Nota_Trim_2": "31",
+        "Nota_Trim_3": "34"
+    },
+    {
+        "Aluno": "lucas123",
         "Nome": "Matem\u00e1tica",
-        "Faltas": "1212",
-        "Nota_Trim_1": "1221",
-        "Nota_Trim_2": "1221",
-        "Nota_Trim_3": "1221"
+        "Faltas": "32",
+        "Nota_Trim_1": "13",
+        "Nota_Trim_2": "19",
+        "Nota_Trim_3": "17"
     },
     {
         "Aluno": "Lu",
         "Nome": "Portugu\u00eas",
-        "Faltas": "123",
-        "Nota_Trim_1": "123",
-        "Nota_Trim_2": "1223",
-        "Nota_Trim_3": "122"
+        "Faltas": "0",
+        "Nota_Trim_1": "30",
+        "Nota_Trim_2": "35",
+        "Nota_Trim_3": "34"
     },
     {
-        "Aluno": "lucas123",
-        "Nome": "Portugu\u00eas",
+        "Aluno": "Lu",
+        "Nome": "Ingl\u00eas",
         "Faltas": "2",
-        "Nota_Trim_1": "25",
-        "Nota_Trim_2": "33",
-        "Nota_Trim_3": "32"
-    },
-    {
-        "Aluno": "lucas123",
-        "Nome": "Matem\u00e1tica",
-        "Faltas": "6",
-        "Nota_Trim_1": "24",
+        "Nota_Trim_1": "28",
         "Nota_Trim_2": "29",
-        "Nota_Trim_3": "27"
-    },
-    {
-        "Aluno": "teste",
-        "Nome": "sla",
-        "Faltas": "12",
-        "Nota_Trim_1": "12",
-        "Nota_Trim_2": "12",
-        "Nota_Trim_3": "12"
-    },
-    {
-        "Aluno": "simm",
-        "Nome": "aa",
-        "Faltas": "123",
-        "Nota_Trim_1": "123",
-        "Nota_Trim_2": "123",
-        "Nota_Trim_3": "123"
-    },
-    {
-        "Aluno": "simm",
-        "Nome": "cccc",
-        "Faltas": "123",
-        "Nota_Trim_1": "123",
-        "Nota_Trim_2": "123",
-        "Nota_Trim_3": "123"
-    },
-    {
-        "Aluno": "simm",
-        "Nome": "eee",
-        "Faltas": "15",
-        "Nota_Trim_1": "25",
-        "Nota_Trim_2": "25",
-        "Nota_Trim_3": "25"
+        "Nota_Trim_3": "31"
     }
 ]
